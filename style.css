@@ -119,7 +119,48 @@ span{
 }
 
 .shopping-cart{
-    font-size:2rem;
+    font-size: 2rem;
+}
+
+/** panel **/
+.panel{
+    height:40px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    align-items: center;
+    
+}
+
+.panel-all{
+    width: 10%;
+}
+
+
+.panel-opt{
+    display: flex;
+    width: 70%;
+    font-size: 0.85rem;
+   
+        
+}
+
+.panel-opt p{
+    margin: 15px;
+}
+
+.panel-deals{
+    font-size: 0.9rem;
+    color: grey;
+}
+
+
+/**main section**/
+.main-section{
+    background-image: url("bg_image_1.jpg");
+    background-size: cover;
+    height: 400px;
+
 }
 
 
