@@ -27,6 +27,7 @@
 
 .border {
     border: 2px solid transparent;
+    margin-top: 10px;
     
 }
 
@@ -64,6 +65,7 @@
     width: 620px;
     height: 40px;
     border-radius: 4px;
+    margin-top: 10px;
 }
 
 
@@ -93,6 +95,7 @@
     justify-content: centre;
     align-items: centre;
      font-size: 2rem; 
+    margin-top: 5px;
     border-top-right-radius: 4px;
     border-bottom-right-radius: 4px;
     color: black;
@@ -120,6 +123,7 @@ span{
 
 .shopping-cart{
     font-size: 2rem;
+    margin-top: 10px;
 }
 
 /** panel **/
@@ -188,6 +192,37 @@ span{
     color: blue;
     font-size: 0.75rem;
 }
+
+
+
+
+
+.shop-catg{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: beige;
+    
+}
+
+
+.box{
+    border: 2px solid black;
+    height: 200px;
+    width: 20%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
