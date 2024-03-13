@@ -194,35 +194,115 @@ span{
 }
 
 
-
-
-
 .shop-catg{
+    justify-content: space-evenly;
+}
+
+
+.catg-1{
     display: flex;
     justify-content: space-evenly;
     background-color: beige;
     
+    
+}
+
+.catg-2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: beige;
 }
 
 
 .box{
+    margin-top: 10px;
+    margin-bottom: 10px;
     border: 2px solid black;
-    height: 200px;
-    width: 20%;
-    
+    height: 400px;
+    width: 32%;
 }
 
 
+.box-1-img{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-image: url("box-1-img.jpeg");
+    height: 300px;
+}
 
 
+.box-1-content {
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.box-2-img{
+    margin-top: 5px;
+     margin-bottom: 5px;
+    background-image: url("box-2-img.jpg");
+    height: 300px;
+}
+
+.box-2-content{
+    
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
 
 
+.box-3-img{
+    margin-top: 5px;
+     margin-bottom: 5px;
+    background-image: url("box-3-img.jpeg");
+    height: 300px;
+}
+.box-3-content{
+    margin-left: 10px;
+    margin-top:10px;
+    margin-right: 10px;
+    
+}
+
+.box-4-img{
+    margin-top: 5px;
+     margin-bottom: 5px;
+    background-image: url("box-4-img.jpeg");
+    height: 300px;
+}
+.box-4-content{
+     margin-left: 10px;
+    margin-top:10px;
+    margin-right: 10px;
+}
 
 
+.box-5-img{
+    margin-top: 5px;
+     margin-bottom: 5px;
+    background-image: url("box-5-img.jpeg");
+    height: 300px;
+}
+.box-5-content{
+     margin-left: 10px;
+    margin-top:10px;
+    margin-right: 10px;
+}
 
 
+.box-6-img{
+    margin-top: 5px;
+     margin-bottom: 5px;
+    background-image: url("box-6-img.jpeg");
+    height: 300px;
+}
 
-
+.box-6-content{
+     margin-left: 10px;
+    margin-top:10px;
+    margin-right: 10px;
+}
 
 
 
