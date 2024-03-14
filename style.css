@@ -149,8 +149,9 @@ span{
         
 }
 
-.panel-opt p{
+.panel-opt a{
     margin: 15px;
+    color: white;
 }
 
 .panel-deals{
@@ -200,7 +201,7 @@ span{
 
 
 .catg-1{
-    display: flex;
+    display: flex;          
     justify-content: space-evenly;
     background-color: beige;
     
